@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+10% fee on each transaction:
+• 5% fee = redistributed to all existing holders
+• 5% fee = used to add liquidity
+
 <!--
 **cybrspnx/cybrspnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
